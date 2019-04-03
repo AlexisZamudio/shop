@@ -1,0 +1,15 @@
+body {
+    padding: 0;
+}
+
+#container_button_add_category_room {
+    display: block;
+}
+
+#container_button_update_category_room {
+    display: none;
+}
+
+#container_button_delete_category_room {
+    display: none;
+}

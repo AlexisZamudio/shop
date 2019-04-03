@@ -1,0 +1,15 @@
+body {
+    padding: 0;
+}
+
+#container_button_add_sale {
+    display: block;
+}
+
+#container_button_update_sale {
+    display: none;
+}
+
+#container_button_delete_sale {
+    display: none;
+}
